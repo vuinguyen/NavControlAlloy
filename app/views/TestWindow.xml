@@ -1,0 +1,8 @@
+<Alloy>
+	<!--<Window class="container"> -->
+	<Window id = "TestWindowView" layout ='vertical'>
+		<Button id = "add" onClick = "addClick" title = "Add A New Window" />
+        <Button id = "home" onClick = "homeClick" title = "Go to the Home Window" />
+        <Button id = "addfh" onClick = "addfhClick" title = "Open New From Home">
+	</Window>
+</Alloy>
